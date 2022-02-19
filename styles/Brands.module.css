@@ -1,0 +1,44 @@
+.trusted_section{
+    width: 75vw;
+    margin: 0 auto;
+    padding: 3rem 0;
+    position: relative;
+}
+.trust_brands{
+    flex-wrap: wrap;
+}
+.brand_item,
+.trust_brands{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.brand_item{
+    cursor: pointer;
+    margin: 0 0.5rem;
+}
+
+.trust_title{
+    text-align: center;
+    margin-bottom: 3vh;
+}
+.trust_title .title{
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+@media screen and (max-width: 1200px){
+    .brand_item{
+        margin: 0.4rem;
+    }
+}
+@media screen and (max-width: 767px){
+    .trust_title .title{
+        font-size: 1rem;
+        font-weight: 800;
+    }    
+    .brand_item span img{
+        width: 35px !important;
+        height: 35px !important;
+    }
+}

@@ -1,0 +1,382 @@
+[
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/39xkJS0CvrRBKgMnyLYBks/14d434f819fef062dce8c72efecbc74d/react-logo.png?w=400&q=50",
+        "authorImg": "https://lh3.googleusercontent.com/a-/AOh14GjL3BsEMrJoNxGK-pRIiXzVzvIrDdJa6VGFoPk0=s288-p-rw-no",
+        "courseCover": "https://i.ibb.co/HKrLr6T/Disney-Plus-Course.png",
+        "courseTitle": "Disney Plus Course React-Redux JS",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "3 SECTIONS - 2 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(255, 115, 115) 13.57%, rgb(73, 30, 184) 98.38%",
+        "boxShadow": "rgb(191 149 248 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/1bYdUtniEAUH3jdqQd3Qc1/7cf21d20882bfe59f01d7bc74e81010d/react-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/2BWI1h9Rv4A0mgawxuqOcz/aa5d17e9ea827cb4c46ec510b1927f38/willie.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/J6KiaOqQyBtSa84hx6fuI/2cd1d475743a2a42c8643b2a69e88547/Advanced_React_Hooks_800x600_cover.png?w=400&q=50",
+        "courseTitle": "Advanced React Hooks",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "20 SECTIONS - 5 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(4, 55, 174) 13.57%, rgb(29, 81, 146) 98.38%",
+        "boxShadow": "rgb(89 0 159 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4bWEQMRsA6PzjiHljsxryp/55d78d84da072e9c22caddbccd67396b/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/7vsvxL14a0C1wb3bJLxywF/c768fe919792ceaabb57533f1397d9c9/Optimized-IMG_20190918_194636_2.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/4cDON6Rn9Q5ysi4HCsJQOF/fedd689e11b818352c033d5e502ea23c/SwiftUI_Concurrency_800x600_cover.png?w=400&q=50",
+        "courseTitle": "SwiftUI Concurrency",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "20 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(16, 114, 204) 13.57%, rgb(89, 0, 159) 98.38%",
+        "boxShadow": "rgb(89 0 159 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4bWEQMRsA6PzjiHljsxryp/55d78d84da072e9c22caddbccd67396b/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/7vsvxL14a0C1wb3bJLxywF/c768fe919792ceaabb57533f1397d9c9/Optimized-IMG_20190918_194636_2.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/5IXFM29JvbdXKuHeGF91Y3/6b49d65577c32747b7b1a60444c56d9c/SwiftUI_Combine_800x600_cover.png?w=400&q=50",
+        "courseTitle": "SwiftUI Combine and Data",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "18 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(0, 6, 149) 13.57%, rgb(116, 69, 154) 98.38%",
+        "boxShadow": "rgb(116 69 154 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4bWEQMRsA6PzjiHljsxryp/55d78d84da072e9c22caddbccd67396b/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/3mI2kmh1xCWPalDCZcqdug/43b286cc9a9aa4f94f462ce6f0c14986/Profile_1.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/39ALEtY2I8P1f2FWpKONXu/2d1b034cb12451491ebcce06b00de439/SwiftUI_Advanced_Course.png?w=400&q=50",
+        "courseTitle": "Advanced Development in SwiftUI",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "20 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(87, 15, 141) 13.57%, rgb(243, 91, 160) 98.38%",
+        "boxShadow": "rgb(243 91 160 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/69nAImRvSWm0SZ3pIfBewe/f42397a7b28e94baff39f1a86fc12ace/flutter-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/3mI2kmh1xCWPalDCZcqdug/43b286cc9a9aa4f94f462ce6f0c14986/Profile_1.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/6OEQLLJTUVZbbGAK29ktr/1b497f39c980e375a3629a24d534a9fb/Flutter_Part_2_800x600_cover.png?w=400&q=50",
+        "courseTitle": "Flutter for Designer Part 2",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "20 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(22, 155, 173) 13.57%, rgb(0, 54, 135) 98.38%",
+        "boxShadow": "rgb(0 54 135 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/1bYdUtniEAUH3jdqQd3Qc1/7cf21d20882bfe59f01d7bc74e81010d/react-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/7MWFSk9hPe69mpKoQZrU8v/f699c21b34e3a1269faf7a84a7e76cc0/React_Hook_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Build a Web App with React Hooks",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "20 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(73, 38, 173) 13.57%, rgb(52, 53, 99) 98.38%",
+        "boxShadow": "rgb(52 53 99 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/69nAImRvSWm0SZ3pIfBewe/f42397a7b28e94baff39f1a86fc12ace/flutter-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/3mI2kmh1xCWPalDCZcqdug/43b286cc9a9aa4f94f462ce6f0c14986/Profile_1.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/6w2sEGq25Xv2JClFQ3KNrB/b928e1651efd7a7f7e4981e37460c09c/flutter_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Flutter for Designers",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "23 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(12, 39, 178) 13.57%, rgb(133, 218, 213) 98.38%",
+        "boxShadow": "rgb(133 218 213 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/628IYmTv4uib8slYz9iuok/3de9010de04ae92a23c94f9885746db2/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/2tW2CpzS3UvWvLMKalw6lO/5c0e638ab0fbc97364c91a3e4e148477/SwiftUI_iOS_14.png?w=400&q=50",
+        "courseTitle": "SwiftUI for IOS 14",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "23 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(48, 173, 221) 13.57%, rgb(64, 26, 190) 98.38%",
+        "boxShadow": "rgb(64 26 190 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/6juoPj4aiabGla63SQ1Vuk/2590bfb5fa2758afb9df3a0c7d04f456/ui-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/3TTdoWvKjL1YnSmphFr39U/27845745c4117f805cc12b14ab475b0c/Swift_Advanced.png?w=400&q=50",
+        "courseTitle": "UI Design for Developers",
+        "category": "https://designcode.io/images/logos/figma-logo.svg",
+        "courseDuration": "22 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(225, 72, 133) 13.57%, rgb(241, 67, 102) 98.38%",
+        "boxShadow": "rgb(241 67 102 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/116o1qEbEAUaU8AyTdyKHb/13a9fd03e8a5d60eaf8fde18b5ab6e78/ae-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/6l0c1oAw5G2mEkOQMYecuG/cc4cde7a25458482eaefba94e6cc3468/Dan_Nisttahuz.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/2QqyceXq1dgheyU2wDyOOh/ee78810559f614eb79ba6db912146b54/Promo_video_AE_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Create a Promo Video in After Effects",
+        "category": "https://designcode.io/images/logos/webflow-logo.svg",
+        "courseDuration": "12 SECTIONS - 2 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(57, 17, 123) 13.57%, rgb(191, 149, 248) 98.38%",
+        "boxShadow": "rgb(191 149 248 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4R97i35WMdVvFscwTug9yW/70dd9c9de4a20867a5205303692ed841/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/3RfmgtcihtrvA3BphYFRTa/e54fadda035bd09921c455dc124c4c41/swiftUI_part_3_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Build an App with SwiftUI Part 3",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "20 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(10, 57, 136) 13.57%, rgb(188, 168, 255) 98.38%",
+        "boxShadow": "rgb(188 168 255 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4R97i35WMdVvFscwTug9yW/70dd9c9de4a20867a5205303692ed841/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/6tQJAXuig7Tr6AW50tMsh6/db7add684a48ef1e24482ae82bc77093/swiftUI_part_2_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Build an App with SwiftUI Part 2",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "20 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(90, 54, 192) 13.57%, rgb(29, 145, 252) 98.38%",
+        "boxShadow": "rgb(29 145 252 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4R97i35WMdVvFscwTug9yW/70dd9c9de4a20867a5205303692ed841/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/38ZwAMY9tErpkghqTp00fi/c2db525ead85878cf78c0324b399f0cb/swiftUI_part_1_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Build an App with SwiftUI Part 1",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "20 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(45, 14, 171) 13.57%, rgb(109, 81, 231) 98.38%",
+        "boxShadow": "rgb(109 81 231 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/3VTbVPTfMsto1lbrhW9hfS/71507ececb8b875add7ba10b74bb0c99/webflow-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/2Nn3tjy8Y3YhzBlwou5M4j/3dde7a588a616990d9315a61be5f47e4/webflow_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Build a full site in Webflow",
+        "category": "https://designcode.io/images/logos/webflow-logo.svg",
+        "courseDuration": "14 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(17, 39, 174) 13.57%, rgb(90, 113, 251) 98.38%",
+        "boxShadow": "rgb(90 113 251 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/3eXL2ZSSDn1djX2GNFhZAl/14a2a112f2cb318538bca2e3783f1909/protopie-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/1fXSYryV8Uit6mtpd2wzG5/bb7510060c15dbe7b5deb152c29b504f/ProtoPie_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Advanced Prototyping in Protopie",
+        "category": "https://designcode.io/images/logos/protopie-logo.svg",
+        "courseDuration": "14 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(193, 48, 39) 13.57%, rgb(226, 131, 115) 98.38%",
+        "boxShadow": "rgb(226 131 115 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/mTZWH1XgUw19Ugg2Ul3i0/bdca1f9dbb6ef3c80de5010fb97de4fd/ui-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/16QFEDb4343KZ4tlo3QyVy/511e9a2a45307220cd636bf88a611cfa/profile2.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/4vshImsSc7NrhKg5Tf3NOs/f67778423390e9d0a43a902be233f961/GreenSock_animation_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "SVG Animations with GreenSock",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "9 SECTIONS - 2 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(14, 11, 147) 13.57%, rgb(94, 182, 202) 98.38%",
+        "boxShadow": "rgb(94 182 202 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/36Sz3YbYNvqsOoFjoopwCu/0795cc8d5a71ed0e7800fe5abdf75e5a/framer-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/EEBifkY5fIz56pT7Gd45w/75d4ab7f0fb8954de8938deaed2bdb05/Framer_Playground_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "UI Interactions in Framer Playground",
+        "category": "https://designcode.io/images/logos/framer-logo.svg",
+        "courseDuration": "10 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(37, 53, 111) 13.57%, rgb(68, 65, 228) 98.38%",
+        "boxShadow": "rgb(68 65 228 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/mTZWH1XgUw19Ugg2Ul3i0/bdca1f9dbb6ef3c80de5010fb97de4fd/ui-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/16QFEDb4343KZ4tlo3QyVy/511e9a2a45307220cd636bf88a611cfa/profile2.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/5oVRnJPGWJpePOMrIx2M0B/f8eac66c5281dce74124b1af5f9b18fd/CSS_Layout_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "CSS Layout and Animations",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "9 SECTIONS - 5 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(0, 24, 69) 13.57%, rgb(54, 135, 216) 98.38%",
+        "boxShadow": "rgb(54 135 216 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/39xkJS0CvrRBKgMnyLYBks/14d434f819fef062dce8c72efecbc74d/react-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/26dc52EBTmrCQebZKEYr6C/9522e71b5d640bff332efab1998c5da7/React-native_part_2_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "React Native for Designers Part 2",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "12 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(60, 11, 140) 13.57%, rgb(227, 166, 254) 98.38%",
+        "boxShadow": "rgb(227 166 254 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4k80OoiAH74E4JWnzT7iHv/d8b989084c313064df5be11f940ea48b/unity-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/2BWI1h9Rv4A0mgawxuqOcz/aa5d17e9ea827cb4c46ec510b1927f38/willie.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/68KUKrbm7TdryzJ0QPynzq/60fdfac5a3560847363438bf240075f9/Unity_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Unity for Designers",
+        "category": "https://designcode.io/images/logos/framer-logo.svg",
+        "courseDuration": "15 SECTIONS - 5 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(31, 118, 167) 13.57%, rgb(145, 130, 191) 98.38%",
+        "boxShadow": "rgb(145 130 191 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/39xkJS0CvrRBKgMnyLYBks/14d434f819fef062dce8c72efecbc74d/react-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/5gvo3gvi1SU0RAXG7Glq12/85ae91f30b6c46bb2742f8c276007455/react-native_part_1_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "React Native for Designers",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "12 SECTIONS - 5 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(29, 11, 140) 13.57%, rgb(189, 166, 254) 98.38%",
+        "boxShadow": "rgb(189 166 254 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/RrX9HCiZ8qPoIpJSlHphR/f9778b44e2b768d31fafb4ac70956682/vue-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/264NRTi3hW6g4CCQSgGCCA/3e770d789b134d08f1e7b0898e02255e/101529557460085.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/4WdATDZ7sjJ0kX2Uh6mHEm/1d52a846ec18e6a8a5e66fe54fa97be5/Vue_for_Designers_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Vue for Designers",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "11 SECTIONS - 5 HOURS OF VIDEO",
+        "backgroundColor": "09.21deg, rgb(12, 16, 151) 13.57%, rgb(0, 133, 175) 98.38%",
+        "boxShadow": "rgb(0 133 175 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/1YISP6mvD83Gao3lQdhWqi/8b36d37d05f77a894dd0b7d30f8e6753/js-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/2BWI1h9Rv4A0mgawxuqOcz/aa5d17e9ea827cb4c46ec510b1927f38/willie.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/DLIbu5hHlRA0vBpdlSt3y/25d3d54b88a6f163cae8fec47d75b041/Javascript_game_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Create a JavaScript Game",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "6 SECTIONS - 2 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(146, 8, 169) 13.57%, rgb(233, 161, 161) 98.38%",
+        "boxShadow": "rgb(233 161 161 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/68Lv9LESUQjWOVIQsQfpTi/da333c422eecea29560950371b574af7/principle-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/6l0c1oAw5G2mEkOQMYecuG/cc4cde7a25458482eaefba94e6cc3468/Dan_Nisttahuz.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/Fc6QzcZ47A7BPPMkJmyma/1a1d039813f7c04cf7a72d419af6e6e0/Principle_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Animation in Principle",
+        "category": "https://designcode.io/images/logos/figma-logo.svg",
+        "courseDuration": "5 SECTIONS - 1 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(91, 51, 162) 13.57%, rgb(175, 76, 218) 98.38%",
+        "boxShadow": "rgb(175 76 218 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/36Sz3YbYNvqsOoFjoopwCu/0795cc8d5a71ed0e7800fe5abdf75e5a/framer-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/3NM5VhT1oXziOULEemEEzS/f164c43f91375abc9bb3d44defc9bea1/Design_and_Code_in_Framer_X_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Design and Code in Framer X",
+        "category": "https://designcode.io/images/logos/framer-logo.svg",
+        "courseDuration": "10 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(50, 14, 150) 13.57%, rgb(3, 97, 126) 98.38%",
+        "boxShadow": "rgb(3 97 126 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/6ml4Ii6ZJ3CSnDM5boThH6/3b2551cdf07316c9c82f09b83b2f64b8/figma-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/57cQYxvbVDyojEroHvEiii/1c56e90769e681e5756d0d7b999643e6/Design_System_Figma_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Design System in Figma",
+        "category": "https://designcode.io/images/logos/figma-logo.svg",
+        "courseDuration": "10 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(250, 135, 117) 13.57%, rgb(216, 58, 58) 98.38%",
+        "boxShadow": "rgb(216 58 58 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/39xkJS0CvrRBKgMnyLYBks/14d434f819fef062dce8c72efecbc74d/react-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/5CqnYLFsJgQzGnoDmu5yCZ/ea211e60ea4d81792cc178fca5aaedac/React_for_Designers800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "React for Designers",
+        "category": "https://designcode.io/images/logos/react-logo.svg",
+        "courseDuration": "12 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(47, 26, 198) 13.57%, rgb(12, 103, 138) 98.38%",
+        "boxShadow": "rgb(12 103 138 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/3i3nGBfQVv0x6Vt9vR9GIJ/47de81ba98928d35801cd0727bbe7f8b/cubase-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/5xTlvW8hyP95FT8UG7F7gz/051f4c2874672b511c8b936f8bbd3b5a/ricky.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/5jr6sgdo4JBjIj7IXhZmgc/15339b322223c118be2f07ecfad9e82c/Sound_Design_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Sound Design with Cubes",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "5 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(175, 16, 47) 13.57%, rgb(212, 146, 228) 98.38%",
+        "boxShadow": "rgb(212 146 228 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4k80OoiAH74E4JWnzT7iHv/d8b989084c313064df5be11f940ea48b/unity-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/2BWI1h9Rv4A0mgawxuqOcz/aa5d17e9ea827cb4c46ec510b1927f38/willie.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/3kV8M0cw0KcAwsjP2BQQA/74f1a23bda2ba2815419f3050119d650/Video_Editing_in_Screenflow_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Unity for Designers",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "15 SECTIONS - 5 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(31, 118, 167) 13.57%, rgb(145, 130, 191) 98.38%",
+        "boxShadow": "rgb(145 130 191 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4bWEQMRsA6PzjiHljsxryp/55d78d84da072e9c22caddbccd67396b/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/7etVU3ZHNQuHvFaiaWxxhT/a8e7e316e574ee8959b4b54bfb956072/Dara.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/7gwnlMEFsuwpm4hMflsHpz/27471464592363e7e879f0ef1b4d1e12/Learn_ARKit_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Build an ARKIT 2 APP",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "11 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(63, 55, 201) 13.57%, rgb(165, 83, 218) 98.38%",
+        "boxShadow": "rgb(165 83 218 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/116o1qEbEAUaU8AyTdyKHb/13a9fd03e8a5d60eaf8fde18b5ab6e78/ae-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/6l0c1oAw5G2mEkOQMYecuG/cc4cde7a25458482eaefba94e6cc3468/Dan_Nisttahuz.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/5yKefvssHHW0hx7FER8Bpq/ab185550d718d0b314a326013181cd7e/Motion_Design_in_After_Effects_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Motion Design in After Effects",
+        "category": "https://designcode.io/images/logos/webflow-logo.svg",
+        "courseDuration": "8 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(210, 145, 255) 13.57%, rgb(31, 0, 64) 98.38%",
+        "boxShadow": "rgb(31 0 64 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/5ulKcX2CAvmNjVOH9wGFdj/1e4af5589ef9da4a8d6c3b2b988c9416/sketch-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/3eXqvGnlqulcYjzYTOvpJg/1d2832504d12b2d8b2d5fb983f10278a/tiago.jpg_large?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/5uzRySkNEbCMm2FbVcnHTQ/4f6be620b9c9e0777e6cf6751ef0e364/Sketch_Plugin_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Create a Sketch Plugin",
+        "category": "https://designcode.io/images/logos/sketch-logo.svg",
+        "courseDuration": "7 SECTIONS - 2 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(200, 11, 11) 13.57%, rgb(242, 165, 93) 98.38%",
+        "boxShadow": "rgb(242 165 93 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4bWEQMRsA6PzjiHljsxryp/55d78d84da072e9c22caddbccd67396b/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/2BWI1h9Rv4A0mgawxuqOcz/aa5d17e9ea827cb4c46ec510b1927f38/willie.jpg?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/6RdQJXzY5GxB3tImLXc7ke/18021be49bf68c4ca8a54dabd36354b3/Learn_SpriteKit_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Create a SpriteKit Game",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "9 SECTIONS - 3 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(120, 5, 115) 13.57%, rgb(246, 203, 196) 98.38%",
+        "boxShadow": "rgb(246 203 196 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/60NtiONwcgmR7RlCnuARpG/a81c2477d9e4c92e1b75fdca244082c6/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/86NNnL6Ueb6d65rIzyeWa/808731990945051d52a34bcc676856a7/Swift_Advanced800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Swift Advanced",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "22 SECTIONS - 9 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(62, 3, 138) 13.57%, rgb(99, 221, 246) 98.38%",
+        "boxShadow": "rgb(99 221 246 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/4bWEQMRsA6PzjiHljsxryp/55d78d84da072e9c22caddbccd67396b/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/2EHTGUSFvByXuo4GqMKxep/3f31696bbc821cee159f259600c46455/Learn_Swift_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Learn Swift",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "19 SECTIONS - 4 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(66, 13, 178) 13.57%, rgb(34, 137, 170) 98.38%",
+        "boxShadow": "rgb(34 137 170 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/5ulKcX2CAvmNjVOH9wGFdj/1e4af5589ef9da4a8d6c3b2b988c9416/sketch-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/2u8a9JnxxavVp2pZyPKq3A/cf2152e1a363373c03fc22b5bff6f233/Learn_Sketch_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Learn Sketch",
+        "category": "https://designcode.io/images/logos/sketch-logo.svg",
+        "courseDuration": "21 SECTIONS - 5 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(239, 77, 77) 13.57%, rgb(233, 109, 44) 98.38%",
+        "boxShadow": "rgb(233 109 44 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    },
+    {
+        "languageImg": "https://images.ctfassets.net/ooa29xqb8tix/628IYmTv4uib8slYz9iuok/3de9010de04ae92a23c94f9885746db2/swift-logo.png?w=400&q=50",
+        "authorImg": "https://images.ctfassets.net/ooa29xqb8tix/1legcDgYFWKJm5NXFxARCj/6a5061ad1691687a7729678860e39114/_9_0Nd2X_400x400-2.png?w=200&h=200&q=50?fm=jpg&q=50",
+        "courseCover": "https://images.ctfassets.net/ooa29xqb8tix/4ZL8VNplxCcDr3WlT5rbcy/11ee88e074b149e23e44a9c9ba34638b/Learn_iOS_11_Design_800x600_cover_new.png?w=400&q=50",
+        "courseTitle": "Learn IOS 11 Design",
+        "category": "https://designcode.io/images/logos/swiftui-logo.svg",
+        "courseDuration": "11 SECTIONS - 1 HOURS OF VIDEO",
+        "backgroundColor": "209.21deg, rgb(15, 12, 156) 13.57%, rgb(2, 114, 194) 98.38%",
+        "boxShadow": "rgb(2 114 194 / 30%) 0px 20px 40px, rgb(0 0 0 / 5%) 0px 1px 3px"
+    }
+]

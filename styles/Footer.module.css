@@ -1,0 +1,61 @@
+.footer,
+.footer_container{
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+}
+.shop_brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    opacity: 1;
+    z-index: 5000;
+    height: auto;
+    background: linear-gradient(189deg , rgb(57, 15, 199) 35%, rgb(40, 35, 77) 100%);
+    position: relative;
+    padding: 5.5vh 0;
+}
+.footer_container{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer_content{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.brand_name{
+    color: #d9dfff;
+    font-size: 1.2rem;
+    font-weight: 800;
+    padding-left: 0.5rem;
+}
+.copyright{
+    color: #d9dfff;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-top: 0.7vh;
+}
+
+/*  */
+.footer_social .footer_icon:nth-child(2){
+    margin: 0 0.7rem;
+}
+
+@media screen and (max-width: 550px){
+    .footer_container{
+        width: 95vw;
+        margin: 0 auto;
+    }
+    .copyright{
+        text-align: center;
+        font-size: 0.85rem;
+    }
+}

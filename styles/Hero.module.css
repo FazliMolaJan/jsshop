@@ -1,0 +1,108 @@
+.hero_filter_buttons,
+.hero_content {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.hero_content {
+  position: relative;
+  margin: 17vh 0 5vh 0;
+}
+.hero_text {
+  width: 100%;
+  max-width: 385px;
+}
+.hero_text .text_p {
+  color: rgba(249, 249, 249, 0.8);
+  font-size: 1rem;
+  font-weight: 400;
+  max-width: 350px;
+  margin: 1vh 0;
+}
+.hero_text .text_h1 {
+  font-size: 3rem;
+  color: rgba(249, 249, 249, 1);
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+/* hero_filter_buttons */
+.filter_button_items {
+  display: flex;
+  align-items: center;
+  margin-right: 2rem;
+}
+.filter_button_items .button_item {
+  margin-right: 0.5rem;
+  display: grid;
+  align-items: center;
+  background: transparent;
+}
+.filter_button_items .button_item span img:active {
+  transform: scale(0.9);
+}
+.filter_button_items .button_item span img {
+  width: 45px !important;
+  height: 45px !important;
+}
+.filter_button_items .button_item:hover {
+  transform: scale(1.15);
+}
+
+
+
+@media screen and (max-width: 1200px) {
+  .hero_content {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .hero_text {
+    width: 100%;
+    max-width: 385px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .hero_text .text_p {
+    max-width: none;
+    text-align: center;
+  }
+  .hero_filter_buttons {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4vh;
+  }
+}
+@media screen and (max-width: 767px) {
+  .hero_filter_buttons {
+    align-items: center;
+    flex-direction: column-reverse;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 2vh;
+  }
+  .filter_button_items {
+    margin-right: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .filter_button_items .button_item {
+    margin: 0 0.43rem;
+  }
+  .filter_button_items .button_item span img {
+    width: 37px !important;
+    height: 37px !important;
+    object-fit: contain !important;
+  }
+  .hero_text {
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .hero_text .text_h1 {
+    font-size: 2rem;
+  }
+}
+

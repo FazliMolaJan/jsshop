@@ -1,0 +1,219 @@
+.moodle_close_button .close_btn_item,
+.input_group {
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+}
+/*  */
+.moodle_overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: 2500;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(20px) saturate(100%);
+  animation: 0.7s ease 0s 1 normal forwards running overlay_animate;
+}
+.moodle_wrap {
+  padding: 0.5rem 1rem 1rem 1rem;
+  border-radius: 1rem;
+  position: relative;
+  background: rgba(50, 61, 109, 0.7);
+  backdrop-filter: blur(40px);
+  box-shadow: rgb(47 184 255 / 30%) 0px 10px 40px,
+    rgb(47 184 255) 0px 0px 0px 1px inset;
+  animation: 0.7s cubic-bezier(0.075, 0.82, 0.165, 1) 0s 1 normal forwards
+    running wrap_animate;
+}
+/* moodle_close_button */
+.moodle_close_button {
+  position: absolute;
+  top: -15px;
+  right: -13px;
+}
+.moodle_close_button .close_btn_item {
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  border-radius: 2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(2rem);
+  background: linear-gradient(
+    360deg,
+    rgba(99, 106, 150, 0.4) 0%,
+    rgba(182, 186, 214, 0.5) 100%
+  );
+  box-shadow: rgb(0 0 0 / 15%) 0px 20px 40px,
+    rgb(255 255 255 / 30%) 0px 0px 0px 0.5px inset;
+}
+.close_btn_item .btn_svg {
+  fill: none;
+  width: 17px;
+  height: 17px;
+  stroke: #fff;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.moodle_title {
+  margin: 1rem 0;
+}
+
+.moodle_title .title {
+  color: rgb(255 255 255 / 85%);
+  text-align: center;
+}
+
+.moodle_button {
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  padding: 0.55rem 0;
+  width: 100%;
+  position: relative;
+  box-shadow: rgb(147 231 221 / 15%) 0px 20px 40px;
+  background: linear-gradient(
+    91.4deg,
+    rgb(47, 184, 255) 0%,
+    rgb(158, 236, 217) 100%
+  );
+  transition: all 250ms cubic-bezier(0.23, 1, 0.32, 1) 0s;
+
+  font-size: 1rem;
+  color: rgb(14, 67, 92);
+  font-weight: 400;
+  text-transform: uppercase;
+  font-style: inherit;
+}
+.moodle_button:active {
+  transform: scale(0.9);
+}
+.moodle_button:hover {
+  color: #fff;
+  background: linear-gradient(
+    200.44deg,
+    rgb(94, 23, 255) 13.57%,
+    rgb(55, 180, 233) 98.38%
+  );
+  box-shadow: rgb(182 153 255 / 30%) 0px 10px 20px,
+    rgb(0 0 0 / 30%) 0px 0px 20px inset;
+}
+.card_number:nth-child(2) {
+  margin: 1rem 0;
+}
+.card_number:nth-child(3) {
+  margin-bottom: 1rem;
+}
+/* card_number */
+.card_number {
+  opacity: 1;
+  width: 90%;
+  height: auto;
+  z-index: 1500;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+  font-size: 0.95rem;
+  border-radius: 1rem;
+  color: rgba(249, 249, 249, 1);
+  padding: 0.6rem 1rem 0.6rem 1rem;
+  backdrop-filter: blur(0.1rem);
+  border: 1px solid rgba(249, 249, 249, 0.1);
+  background: linear-gradient(
+    rgba(99, 106, 150, 0.5) 0%,
+    rgba(182, 186, 214, 0.5) 100%
+  );
+}
+.card_number::placeholder {
+  color: rgba(249, 249, 249, 0.7);
+}
+.card_number:focus {
+  background: linear-gradient(
+    rgba(24, 32, 79, 0.4) 0%,
+    rgba(24, 32, 79, 0.25) 100%
+  );
+  box-shadow: rgb(47 184 255 / 30%) 0px 10px 40px,
+    rgb(47 184 255) 0px 0px 0px 1px inset;
+}
+
+.term_policy {
+  color: rgb(255 255 255 / 85%);
+  margin: 1vh auto 1rem auto;
+  max-width: 450px;
+  font-size: 0.8rem;
+}
+
+@keyframes overlay_animate {
+  0% {
+    backdrop-filter: blur(0) saturate(100%);
+  }
+  100% {
+    backdrop-filter: blur(1rem) saturate(120%);
+  }
+}
+
+@keyframes wrap_animate {
+  0% {
+    transform: translateY(-100px) scale(0.8);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px) scale(1);
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .moodle_wrap {
+    padding: 1rem;
+  }
+  .moodle_close_button .close_btn_item {
+    width: 31px;
+    height: 31px;
+  }
+  .close_btn_item .btn_svg {
+    width: 13px;
+    height: 13px;
+  }
+  .moodle_title .title {
+    font-size: 0.85rem;
+  }
+  .moodle_button {
+    font-size: 0.9rem;
+  }
+  .card_number {
+    padding: 0.45rem 1rem 0.45rem 1rem;
+  }  
+  .term_policy {
+    max-width: 350px;
+    font-size: 0.7rem;
+  }
+}
+@media screen and (max-width: 425px) {
+    .term_policy {
+        max-width: 300px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .term_policy {
+        max-width: 285px;
+    }
+}
+@media screen and (max-width: 325px) {
+    .term_policy {
+        max-width: 230px;
+    }
+}
