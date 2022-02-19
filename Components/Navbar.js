@@ -9,6 +9,7 @@ export default function Navbar() {
   const router = useRouter();
   const { data: session, status } = useSession();
   const loading = status === "Loading...";
+  const URL = process.env.LOCALHOST_URL || process.env.NEXTSHOP_URL;
 
   return (
     <>
@@ -41,7 +42,7 @@ export default function Navbar() {
           </li>
           {!loading && !session && (
             <li>
-              <Link href={`/api/auth/signin`} passHref>
+              <Link href={`${URL}/api/auth/signin`} passHref>
                 <a className={styles.list_links}>
                   <span className={styles.list_links_img}>
                     <Image src={SVGs.signinSvg} alt="logo/svg" />
