@@ -56,8 +56,8 @@ export default function Index({ data }) {
 }
 
 export async function getServerSideProps(context) {
-  const URL = process.env.LOCALHOST_URL || process.env.NEXTSHOP_URL;
-  const request = await fetch(`${URL}/api/courses`);
+//   const URL = process.env.LOCALHOST_URL || process.env.NEXTSHOP_URL;
+  const request = await fetch(`https://jsshop.vercel.app/api/courses`);
   const data = await request.json();
   return {
     props: {
