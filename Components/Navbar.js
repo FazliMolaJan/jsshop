@@ -14,7 +14,7 @@ export default function Navbar() {
     <>
       <nav className={styles.jsshop_nav}>
         <Link href={`/`} passHref>
-          <a className={styles.shop_brand} href="/">
+          <a className={styles.shop_brand}>
             <span className={styles.list_links_img}>
               <Image
                 priority
@@ -31,7 +31,7 @@ export default function Navbar() {
         <ul className={styles.nav_list}>
           <li className={router.pathname == "/" ? "active" : ""}>
             <Link href={`/`} passHref>
-              <a className={styles.list_links} href="/">
+              <a className={styles.list_links}>
                 <span className={styles.list_links_img}>
                   <Image src={SVGs.courses} alt="logo/svg" />
                 </span>
@@ -42,7 +42,7 @@ export default function Navbar() {
           {!loading && !session && (
             <li>
               <Link href={`/api/auth/signin`} passHref>
-                <a className={styles.list_links} href="/api/auth/signin">
+                <a className={styles.list_links}>
                   <span className={styles.list_links_img}>
                     <Image src={SVGs.signinSvg} alt="logo/svg" />
                   </span>

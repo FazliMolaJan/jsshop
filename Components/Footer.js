@@ -19,7 +19,7 @@ export default function Footer() {
             </div>
             <div className={styles.footer_social}>
               <Link href={`/`} passHref>
-                <a href="/" className={styles.footer_icon}>
+                <a className={styles.footer_icon}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width={23}
@@ -32,7 +32,7 @@ export default function Footer() {
                 </a>
               </Link>
               <Link href={`/`} passHref>
-                <a href="/" className={styles.footer_icon}>
+                <a className={styles.footer_icon}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width={23}
@@ -45,7 +45,7 @@ export default function Footer() {
                 </a>
               </Link>
               <Link href={`/`} passHref>
-                <a href="/" className={styles.footer_icon}>
+                <a className={styles.footer_icon}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width={23}
